@@ -4,10 +4,10 @@
 
 `<What is this episode about?>`
 
-## Source Material
+## Vocabulary Material
 
-- `<PDF / code module / architecture diagram / idea>`
-- `<Important source paths or links>`
+- `<Word root / prefix / suffix / word list / confusing words / pronunciation topic / idea>`
+- `<Important notes or source paths, if any>`
 
 ## Target Viewer
 
@@ -21,15 +21,15 @@
 
 `<One urgent first-three-second claim or question>`
 
-## Key Concepts
+## Key Words
 
-1. `<Concept 1>`
-2. `<Concept 2>`
-3. `<Concept 3>`
+1. `<Word 1>`
+2. `<Word 2>`
+3. `<Word 3>`
 
 ## Visual Metaphor
 
-`<Grid, pipeline, map, exploded architecture, word root network, etc.>`
+`<Word root network, prefix/suffix split, contrast pair, memory card grid, pronunciation beat, etc.>`
 
 ## Duration Target
 

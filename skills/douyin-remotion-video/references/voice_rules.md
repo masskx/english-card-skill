@@ -24,7 +24,7 @@ Never hardcode API keys.
 
 Target delivery:
 
-- Douyin knowledge creator.
+- Douyin English-learning creator.
 - Confident and excited.
 - Slight pressure in the first three seconds.
 - Fast but clear.

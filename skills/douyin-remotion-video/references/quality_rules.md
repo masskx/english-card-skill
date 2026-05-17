@@ -17,7 +17,7 @@ Use this checklist before delivering an episode.
 - Supporting text does not compete with the main word.
 - No text overlaps or gets clipped.
 - Subtitles fit inside the bottom bar.
-- Grid/diagram lines do not cover important text.
+- Grid/network lines do not cover important word text.
 - Background texture is subtle enough for readability.
 
 ## Rhythm

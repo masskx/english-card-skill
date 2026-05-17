@@ -2,7 +2,7 @@
 
 Use the `douyin-remotion-video` skill.
 
-Review the current Remotion episode and make it feel less like a PPT and more like a Douyin knowledge short video.
+Review the current Remotion episode and make it feel less like a PPT and more like a Douyin English vocabulary short video.
 
 Focus on:
 

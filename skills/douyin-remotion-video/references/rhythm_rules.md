@@ -30,7 +30,7 @@ Typical sequence:
 1. Hook.
 2. Fast examples or problem.
 3. Pattern reveal.
-4. Central concept slam.
+4. Central word pattern slam.
 5. One-by-one explanation.
 6. Grid/structure summary.
 7. Final memory formula.
@@ -60,7 +60,7 @@ Do not overuse transitions between every tiny detail; the result should feel ene
 
 ## Pacing Targets
 
-For Douyin-style knowledge videos:
+For Douyin-style English vocabulary videos:
 
 - Line length: usually 1-2 seconds when possible.
 - Long explanations should be split into separate lines.

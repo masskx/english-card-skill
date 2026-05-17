@@ -28,7 +28,7 @@ export const voiceScript: VoiceScriptLine[] = [
     instruction: `${defaultInstruction} 核心关键词要重读。`,
   },
   {
-    id: 'concept-1',
+    id: 'word-1',
     text: '<第一个解释点>',
     emotionInstruction: '像真人博主拆解，不要教材腔。',
     speedHint: 'fast-clear',

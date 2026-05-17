@@ -2,7 +2,7 @@
 
 ## 1. Prepare The Episode
 
-Create an episode brief from the source material.
+Create an episode brief from the English vocabulary topic.
 
 Use `templates/episode_brief_template.md` and decide:
 
@@ -10,25 +10,25 @@ Use `templates/episode_brief_template.md` and decide:
 - Target viewer.
 - Core promise.
 - First-three-second hook.
-- Key concepts.
+- Key words.
 - Final memory line.
 
-For PDFs or code, extract only the strongest short-video idea. Do not attempt to explain everything.
+For word lists, roots, prefixes, suffixes, or confusing words, extract one memorable learning angle. Do not turn the episode into a dictionary list.
 
 ## 2. Write Data Files
 
 Create or update:
 
 - `src/data/voiceScript.ts`
-- Domain data such as `src/data/words.ts` or a new equivalent file.
+- Vocabulary data such as `src/data/words.ts` or a new equivalent file.
 
 Keep narration short and punchy. Use stable IDs:
 
 - `hook`
 - `flash-words`
 - `same-root` or `pattern-reveal`
-- `root-ject` or `core-concept`
-- `word-*` / `concept-*`
+- `root-ject`, `prefix-*`, `suffix-*`, or `memory-formula`
+- `word-*`
 - `grid-connect`
 - `summary`
 - `outro`
@@ -38,7 +38,7 @@ Keep narration short and punchy. Use stable IDs:
 Use data-driven components:
 
 - Intro scene for hook and fast examples.
-- Core concept reveal.
+- Core word pattern reveal.
 - One-by-one explanation scene.
 - Structure/grid scene.
 - Summary scene.
@@ -80,7 +80,7 @@ npm run voice
 Rules:
 
 - Current subtitle: active generated timeline segment.
-- Current word or concept: active segment ID.
+- Current word: active segment ID.
 - Scene transitions: derived from segment IDs.
 - Repeated flashing: based on progress through the active segment.
 

@@ -9,7 +9,7 @@ export type EpisodeItem = {
 
 export const episodeInfo = {
   title: '<Episode title>',
-  coreKeyword: '<Core concept or formula>',
+  coreKeyword: '<Core word root, affix, contrast, or memory formula>',
   meaning: '<Short Chinese meaning>',
   explanation: '<One-sentence explanation>',
 };

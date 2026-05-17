@@ -2,7 +2,7 @@
 
 ## Style Target
 
-The look is a Douyin/TikTok knowledge explainer, not a slide deck:
+The look is a Douyin/TikTok English vocabulary explainer, not a slide deck:
 
 - Black/yellow high contrast.
 - Large center keywords.
@@ -59,9 +59,9 @@ The background should feel alive but not decorative:
 
 Each screen should have one dominant idea:
 
-- Intro hook: one large Chinese claim.
+- Intro hook: one large Chinese English-learning claim.
 - Flash words: one large word at center, small word strip below.
-- Root reveal: huge root in center, explanation below.
+- Root/affix/pattern reveal: huge root or formula in center, explanation below.
 - Word explanation: huge English word left/center, phonetic as gray helper, Chinese meaning large.
 - Grid scene: center root with word cards around it and thin glowing lines.
 - Summary: huge memory formula, no clutter.

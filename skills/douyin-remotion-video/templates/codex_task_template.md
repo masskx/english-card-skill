@@ -1,12 +1,12 @@
-# Codex Task: Create A Douyin Remotion Episode
+# Codex Task: Create A Douyin English Vocabulary Remotion Episode
 
 Use the `douyin-remotion-video` skill.
 
 ## Goal
 
-Create a Douyin-style Remotion knowledge short video from:
+Create a Douyin-style Remotion English vocabulary short video from:
 
-`<source material path or idea>`
+`<word root, prefix, suffix, word list, confusing words, pronunciation topic, or idea>`
 
 ## Requirements
 
@@ -24,13 +24,13 @@ Topic: `<topic>`
 
 Audience: `<viewer>`
 
-Core promise: `<what viewers remember>`
+Core promise: `<what viewers remember about the words>`
 
-Key concepts:
+Key words:
 
-1. `<concept 1>`
-2. `<concept 2>`
-3. `<concept 3>`
+1. `<word 1>`
+2. `<word 2>`
+3. `<word 3>`
 
 ## Deliverables
 
